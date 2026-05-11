@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">五子棋</string>
+    <string name="restart_game">重新开始</string>
+    <string name="player_black">黑棋</string>
+    <string name="player_white">白棋</string>
+    <string name="current_turn">当前回合:</string>
+    <string name="game_over">游戏结束</string>
+    <string name="player_won">赢了!</string>
+    <string name="draw">平局!</string>
+</resources>
